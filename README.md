@@ -4,3 +4,15 @@
 
 
 本地的修改
+
+
+
+
+
+git add 
+
+git commit 
+
+git push 
+
+git pull 
